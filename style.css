@@ -134,4 +134,22 @@ a{
     padding-left: 10px;
 }
 
+.form{
+    border: 1px solid rgb(34, 228, 157);
+    width: 500px;
+    height:500px;
+    text-decoration: none;
+    color: aquamarine;
+   
+    padding: 40px 300px 100px 40px;
+    display: grid;
+    
+}
 
+input{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(129, 129, 129);
+    font: 13px sans-serif
+}
